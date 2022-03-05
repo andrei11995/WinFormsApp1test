@@ -30,7 +30,7 @@ namespace WinFormsApp1test
 
         private void txtUserNameAdmin_TextChanged(object sender, EventArgs e)
         {
-
+            // a doua modificare
         }
 
         private void textpasswordAdmin_TextChanged(object sender, EventArgs e)
