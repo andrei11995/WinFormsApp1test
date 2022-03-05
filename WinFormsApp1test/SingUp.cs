@@ -36,6 +36,9 @@ namespace WinFormsApp1test
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+
+            //dada
+
         }
 
         private void label5_Click(object sender, EventArgs e)
