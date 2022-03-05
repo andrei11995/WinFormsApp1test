@@ -25,7 +25,7 @@ namespace WinFormsApp1test
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-
+            //ancercare
         }
 
         private void txtUserNameAdmin_TextChanged(object sender, EventArgs e)
