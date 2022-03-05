@@ -34,7 +34,7 @@ namespace WinFormsApp1test
         }
 
         private void textpasswordAdmin_TextChanged(object sender, EventArgs e)
-        {
+        {//aceasta modificare
 
         }
 
